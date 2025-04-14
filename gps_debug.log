@@ -1,0 +1,10 @@
+=== Debug Log Started 2025-03-23 01:37:52 ===
+2025-03-23 01:37:52 - Checking if OSM file exists at E:\Autonomous-2024\map(8).osm
+2025-03-23 01:37:52 - ERROR: OSM file not found: E:\Autonomous-2024\map(8).osm
+2025-03-23 01:37:52 - Testing Arduino connection...
+2025-03-23 01:37:52 - ERROR connecting to Arduino: Cannot configure port, something went wrong. Original message: PermissionError(13, 'A device attached to the system is not functioning.', None, 31)
+2025-03-23 01:37:52 - Testing GPS port COM12...
+2025-03-23 01:37:52 - GPS port opened successfully
+2025-03-23 01:37:52 - Listing available serial ports:
+2025-03-23 01:37:52 -   COM4: Arduino Uno (COM4)
+2025-03-23 01:37:52 -   COM12: USB-SERIAL CH340 (COM12)
